@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "image": "assets/icons/fish.png",
+        "name": "Fish",
+        "price": 15000,
+        "category": "Main",
+        "quantity": 5
+    },
+    {
+        "id": 2,
+        "image": "assets/icons/shrimp.png",
+        "name": "Shrimp",
+        "price": 30000,
+        "category": "Main",
+        "quantity": 4
+    },
+    {
+        "id": 3,
+        "image": "assets/icons/cake.png",
+        "name": "Cake",
+        "price": 30000,
+        "category": "Side",
+        "quantity": 33
+    },
+    {
+        "id": 4,
+        "image": "assets/icons/tea.png",
+        "name": "Tea",
+        "price": 50000,
+        "category": "Drink",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "image": "assets/icons/fruit.png",
+        "name": "Fruit",
+        "price": 25000,
+        "category": "Side",
+        "quantity": 5
+    },
+    {
+        "id": 6,
+        "image": "assets/icons/ice-cream.png",
+        "name": "Ice Cream",
+        "price": 50000,
+        "category": "Side",
+        "quantity": 5
+    },
+    {
+        "id": 7,
+        "image": "assets/icons/steak.png",
+        "name": "Steak",
+        "price": 100000,
+        "category": "Main",
+        "quantity": 9
+    },
+    {
+        "id": 8,
+        "image": "assets/icons/coffee-cup.png",
+        "name": "Coffe",
+        "price": 15000,
+        "category": "Drink",
+        "quantity": 5
+    },
+    {
+        "id": 9,
+        "image": "assets/icons/vodka.png",
+        "name": "Vodka",
+        "price": 150000,
+        "category": "Wine",
+        "quantity": 5
+    },
+    {
+        "id": 10,
+        "image": "assets/icons/tequila.png",
+        "name": "Tequila",
+        "price": 80000,
+        "category": "Wine",
+        "quantity": 5
+    },
+    {
+        "id": 11,
+        "image": "assets/icons/martini.png",
+        "name": "Martini",
+        "price": 90000,
+        "category": "Cocktail",
+        "quantity": 5
+    }
+]
